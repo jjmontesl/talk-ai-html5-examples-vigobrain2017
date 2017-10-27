@@ -32,7 +32,7 @@
     - wheel size, position and density
     - body density
 
-[Genetic Algorithm 2D Car Thingy](http://rednuht.org/genetic_cars_) \
+[Genetic Algorithm 2D Car Thingy](http://rednuht.org/genetic_cars_2) \
 [Genetic 3 Wheelers](http://www.whiletrue.it/genetic_3-wheelers/)
 
 
